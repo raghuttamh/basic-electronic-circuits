@@ -1,0 +1,21 @@
+Circuit: * C:\users\raghuttam\My Documents\LTspiceXVII\Exp\Capacitor.asc
+
+.OP point found by inspection.
+
+Date: Fri Jul 09 15:53:37 2021
+Total elapsed time: 0.068 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2344
+traniter = 2344
+tranpoints = 1173
+accept = 1143
+rejected = 30
+matrix size = 3
+fillins = 0
+solver = Normal
+Matrix Compiler1: 50 bytes object code size  0.0/0.0/[0.0]
+Matrix Compiler2: off  [0.0]/0.0/0.0
+
