@@ -1,0 +1,17 @@
+* C:\users\raghuttam\Documents\LTspiceXVII\basic-electronic-circuits\Boost_converter.asc
+D1 N001 N002 1N914
+L1 N003 N001 0.5m
+C1 N002 0 0.1µ
+R1 N002 0 1k
+V1 N003 0 12
+V2 N004 0 PULSE(0 12 0 1n 1n 3u 4u)
+M1 N001 N004 0 0 AO6407
+.model D D
+.lib C:\users\raghuttam\Documents\LTspiceXVII\lib\cmp\standard.dio
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\users\raghuttam\Documents\LTspiceXVII\lib\cmp\standard.mos
+.tran 1ms
+* Buck Converter
+.backanno
+.end
