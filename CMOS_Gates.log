@@ -11,8 +11,8 @@ Heightened Def Con from 2 to 2
 Heightened Def Con from 2 to 2
 Heightened Def Con from 2 to 2
 
-Date: Thu Aug 05 22:39:36 2021
-Total elapsed time: 0.141 seconds.
+Date: Wed Aug 11 11:46:49 2021
+Total elapsed time: 0.224 seconds.
 
 tnom = 27
 temp = 27
@@ -26,5 +26,5 @@ matrix size = 10
 fillins = 0
 solver = Normal
 Matrix Compiler1: 454 bytes object code size  0.2/0.1/[0.1]
-Matrix Compiler2: 922 bytes object code size  0.1/0.2/[0.1]
+Matrix Compiler2: 922 bytes object code size  0.2/0.2/[0.1]
 
