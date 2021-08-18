@@ -5,26 +5,33 @@ Changing Tseed to 1e-010
 Changing Tseed to 1e-012
 Changing Tseed to 1e-009
 Changing Tseed to 1e-013
+Heightened Def Con from 1 to 1
+Heightened Def Con from 1.5 to 1.5
 Heightened Def Con from 2 to 2
 Heightened Def Con from 2 to 2
 Heightened Def Con from 2 to 2
-Heightened Def Con from 2 to 2
-Heightened Def Con from 2 to 2
+Heightened Def Con from 3 to 3
+Heightened Def Con from 3 to 3
+Heightened Def Con from 3 to 3
+Heightened Def Con from 3.5 to 3.5
+Heightened Def Con from 3.5 to 3.5
+Heightened Def Con from 3.5 to 3.5
 
-Date: Wed Aug 11 11:46:49 2021
-Total elapsed time: 0.224 seconds.
+Date: Thu Aug 12 12:17:38 2021
+Total elapsed time: 0.525 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 5386
-traniter = 5375
-tranpoints = 1658
-accept = 1554
-rejected = 105
-matrix size = 10
+totiter = 4889
+traniter = 4878
+tranpoints = 1739
+accept = 1593
+rejected = 153
+matrix size = 17
 fillins = 0
 solver = Normal
-Matrix Compiler1: 454 bytes object code size  0.2/0.1/[0.1]
-Matrix Compiler2: 922 bytes object code size  0.2/0.2/[0.1]
+Thread vector: 59.0/24.7[2] 23.2/18.8[2] 4.5/8.0[1] 0.9/8.9[1]  2592/500
+Matrix Compiler1: 912 bytes object code size  2.8/2.2/[1.1]
+Matrix Compiler2: 1.54 KB object code size  2.3/3.8/[0.9]
 
