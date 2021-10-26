@@ -2,20 +2,20 @@ Circuit: * C:\users\raghuttam\Documents\LTspiceXVII\basic-electronic-circuits\We
 
 Direct Newton iteration for .op point succeeded.
 
-Date: Thu Aug 05 13:15:11 2021
-Total elapsed time: 3.978 seconds.
+Date: Wed Oct 20 11:12:45 2021
+Total elapsed time: 0.604 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 851683
-traniter = 851673
-tranpoints = 197841
-accept = 140646
-rejected = 57195
+totiter = 27509
+traniter = 27499
+tranpoints = 13750
+accept = 9903
+rejected = 3847
 matrix size = 38
 fillins = 48
 solver = Normal
-Matrix Compiler1: 4.22 KB object code size  1.3/0.9/[0.5]
-Matrix Compiler2: 3.91 KB object code size  0.7/1.0/[0.5]
+Matrix Compiler1: 4.22 KB object code size  5.8/4.2/[1.5]
+Matrix Compiler2: 3.91 KB object code size  2.8/4.1/[1.3]
 

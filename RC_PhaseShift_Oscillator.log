@@ -1,7 +1,6 @@
 Circuit: * C:\users\raghuttam\Documents\LTspiceXVII\basic-electronic-circuits\RC_PhaseShift_Oscillator.asc
 
 Direct Newton iteration for .op point succeeded.
-.step r=200
 .step r=400
 .step r=600
 .step r=800
@@ -10,8 +9,8 @@ Direct Newton iteration for .op point succeeded.
 .step r=1400
 .step r=1500
 
-Date: Thu Aug 12 11:05:46 2021
-Total elapsed time: 1.883 seconds.
+Date: Thu Aug 26 10:15:31 2021
+Total elapsed time: 2.641 seconds.
 
 tnom = 27
 temp = 27
@@ -24,6 +23,6 @@ rejected = 2761
 matrix size = 70
 fillins = 77
 solver = Normal
-Matrix Compiler1: 6.96 KB object code size  1.8/0.9/[0.5]
-Matrix Compiler2: 7.08 KB object code size  0.8/1.0/[0.5]
+Matrix Compiler1: 6.96 KB object code size  3.5/2.3/[0.8]
+Matrix Compiler2: 7.08 KB object code size  1.5/2.1/[0.8]
 

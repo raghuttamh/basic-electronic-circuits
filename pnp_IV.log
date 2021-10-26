@@ -1,4 +1,4 @@
-Circuit: * C:\users\raghuttam\My Documents\LTspiceXVII\basic-electronic-circuits\pnp_IV.asc
+Circuit: * C:\users\raghuttam\Documents\LTspiceXVII\basic-electronic-circuits\pnp_IV.asc
 
 Error on line 2 : v1 n003 0 v
 	 Unknown parameter "v"
@@ -21,8 +21,8 @@ V1: Missing value, assumed 0V @ DC
 .step v1=-0.9
 .step v1=-1
 
-Date: Wed Jul 14 14:30:34 2021
-Total elapsed time: 0.040 seconds.
+Date: Thu Aug 26 10:13:54 2021
+Total elapsed time: 0.370 seconds.
 
 tnom = 27
 temp = 27
@@ -35,6 +35,6 @@ rejected = 0
 matrix size = 6
 fillins = 0
 solver = Normal
-Matrix Compiler1: 146 bytes object code size  0.1/0.0/[0.0]
-Matrix Compiler2: 380 bytes object code size  0.1/0.1/[0.0]
+Matrix Compiler1: 146 bytes object code size  0.5/0.5/[0.5]
+Matrix Compiler2: off  [0.5]/0.6/0.5
 
